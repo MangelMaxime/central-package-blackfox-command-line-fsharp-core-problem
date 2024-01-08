@@ -23,6 +23,6 @@
         <!-- Reproducible builds + SourceLink supports -->
         <PackageReference Include="DotNet.ReproducibleBuilds" PrivateAssets="All"/>
         <!-- Depends on the same version of FSharp.Core for all the projects -->
-        <PackageReference Update="FSharp.Core" Version="8.0.100"/>
+        <PackageReference Update="FSharp.Core"/>
     </ItemGroup>
 </Project>
