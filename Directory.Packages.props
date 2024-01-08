@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="FSharp.Core" Version="8.0.100" />
+    <PackageVersion Include="BlackFox.CommandLine" Version="1.0.0" />
+    <PackageVersion Include="SimpleExec" Version="11.0.0" />
+    <PackageVersion Include="DotNet.ReproducibleBuilds" Version="1.1.1" />
+  </ItemGroup>
+</Project>
